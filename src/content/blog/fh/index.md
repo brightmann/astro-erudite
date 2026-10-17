@@ -2,7 +2,6 @@
 title: "战马"
 description: "这是一篇文章"
 date: 2026-10-17T08:53
-image: ./assets/banner.png
 authors:
   - enscribe
 ---
